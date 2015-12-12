@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Luke Hopkins]]></title>
         <description><![CDATA[Luke Hopkins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lukehopkins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 23:02:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 23:05:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lukehopkins/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Butter In Your Coffee And Other Cons: Stories From A Fitness Insider]]></title>
+            <description><![CDATA[<article><h1>Butter In Your Coffee And Other Cons: Stories From A Fitness Insider</h1><p>Three years after co-founding Fitocracy, we launched a new online coaching service to start bringing in money. We needed a way to hook people in, but no one seemed interested. Illustration: Sam Woolley It didn't make sense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/898f37d8054a5458d6a672ad5de73a2ddf42a7db.png"></article>]]></description>
+            <link>http://www.lifehacker.com.au/2015/08/butter-in-your-coffee-and-other-cons-stories-from-a-fitness-insider/</link>
+            <guid isPermaLink="false">2a09d217-587f-4e11-8d3d-cbb302c624f1</guid>
+            <pubDate>Sat, 12 Dec 2015 23:04:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedb3e3652b-e831-41ab-bf91-55fb51368ac5/index.html</link>
+            <description><![CDATA[<p>http://www.lifehacker.com.au/2015/08/butter-in-your-coffee-and-other-cons-stories-from-a-fitness-insider/</p>]]></description>
+            <link>https://thegrid.ai/lukehopkins/b3e3652b-e831-41ab-bf91-55fb51368ac5/index.html</link>
             <guid isPermaLink="false">b3e3652b-e831-41ab-bf91-55fb51368ac5</guid>
             <pubDate>Sat, 12 Dec 2015 23:02:24 GMT</pubDate>
         </item>
