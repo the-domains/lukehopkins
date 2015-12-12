@@ -1,7 +1,7 @@
 name: lukehopkins
 favicon: null
-layout_spectrum: 0.1977015226148069
-typography_spectrum: 0.65574
+layout_spectrum: 0.56286
+typography_spectrum: 0.74215
 title: Luke Hopkins
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0
-  lightness: 0.7221485001500696
-  saturation: 0.6221555722877383
-  rhythmicContrast: 0.6862923421431333
+    - '#faf9f7'
+    - '#7eb2e7'
+    - '#1c1b28'
+    - '#5d5e62'
+    - '#94857f'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
