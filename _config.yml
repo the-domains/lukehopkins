@@ -1,7 +1,7 @@
 name: lukehopkins
 favicon: null
 layout_spectrum: 0.1977015226148069
-typography_spectrum: 0.6055946010164917
+typography_spectrum: 0.65574
 title: Luke Hopkins
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.016177534824237227
+  brandStrength: 0
   lightness: 0.7221485001500696
   saturation: 0.6221555722877383
   rhythmicContrast: 0.6862923421431333
